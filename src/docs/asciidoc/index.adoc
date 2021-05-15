@@ -1,0 +1,18 @@
+= RESTful Notes API Guide
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectnums:
+:sectlinks:
+:sectanchors:
+
+[[api]]
+== Posts API
+게시판 조회 API
+
+include::{snippets}/posts/curl-request.adoc[]
+include::{snippets}/posts/http-request.adoc[]
+include::{snippets}/posts/http-response.adoc[]
+include::{snippets}/posts/response-fields.adoc[]
