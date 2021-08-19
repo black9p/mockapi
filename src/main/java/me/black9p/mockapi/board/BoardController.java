@@ -6,6 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Arrays;
 
 /**
+ * Board 컨트롤러
+ *
  * @author black9p
  */
 @RestController
