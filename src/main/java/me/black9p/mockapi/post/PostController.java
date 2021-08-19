@@ -8,6 +8,7 @@ import java.util.Arrays;
 
 /**
  * 게시판 컨트롤러
+ *
  * @author black9p
  */
 @RestController
